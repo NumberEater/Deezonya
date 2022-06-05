@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <script type="text/javascript" src="jquery-3.6.0.js"></script>
+    <script type="text/javascript">
+    $.getJSON("https://cat-fact.herokuapp.com/facts", function(data) {
+      var facts = ""
+
+      for (let i = 0; i < data.length; i++) {
+        facts += '<p style="font-family:sans-serif;font-size:1.2em;">';
+        facts += data[i]["text"];
+        facts += "</p>";
+      }
+      document.write(facts);
+    });
+    </script>
+  </head>
+</html>
