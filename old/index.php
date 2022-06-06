@@ -12,11 +12,6 @@
 			header("Location: ../index.html");
 			die();
 		}
-		else {
-			$logfile = fopen("user_logs.log", "a") or die("E");
-			fwrite($logfile, $_SERVER["REMOTE_ADDR"]);
-			fclose($logfile);
-		}
 	?>
 
 	<center>
