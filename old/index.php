@@ -34,19 +34,19 @@
 
 	<center>
 		<div class="title">
-			<h1>Grant's Movies</h1>
+			<h1>Movies & Stuff</h1>
 		</div>
 		<div class="info">
 			<h2>Server Info</h2>
 			<p>This server is hosted on my home network using a <a href="https://www.raspberrypi.com/products/raspberry-pi-zero/" target="_blank">Raspberry Pi Zero</a>.</p>
 			<p>It has about 512mb of ram. The processing speed and ram is not suitable for a high traffic website.</p>
-			<p>I'm hoping to upgrade the server to a little bit more powerful one with a <a href="https://shorturl.at/fltOS">1tb Micro SD</a>.</p>
+			<p>I'm hoping to upgrade the server to a little bit more powerful one with a <a href="https://shorturl.at/fltOS" target="_blank">1TB Micro SD</a>.</p>
 			<p>If you want to help with costs, you can venmo me the money for the Micro SD and I will upload any movie you want forever.</p>
 		</div>
 		<div class="movies">
 			<h2>Videos/Movies</h2>
 			<p><a href="./videos/test/test_video.html">Test Video</a></p>
-			<p><a href="./videos/maverick/maverick.html">Top Gun Maverick (coming soon)</a></p>
+			<p><a href="./videos/maverick/maverick.html">Top Gun Maverick (coming 6/6/22)</a></p>
 		</div>
 	</center>
 </body>
