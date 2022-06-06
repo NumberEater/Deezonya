@@ -8,6 +8,9 @@
 				font-family: sans-serif;
 				font-size: 1.2em;
 			}
+			a {
+				text-decoration: none;
+			}
 	</style>
 	<title>Grant's Website</title>
 </head>
@@ -25,7 +28,7 @@
 		</div>
 		<div class="info">
 			<h2>Server Info</h2>
-			<p>This server is hosted on my home network using a <a href="https://www.raspberrypi.com/products/raspberry-pi-zero/">Raspberry Pi Zero</a></p>
+			<p>This server is hosted on my home network using a <a href="https://www.raspberrypi.com/products/raspberry-pi-zero/" target="_blank">Raspberry Pi Zero</a></p>
 		</div>
 	</center>
 </body>
