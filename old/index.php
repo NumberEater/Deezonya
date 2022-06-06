@@ -12,7 +12,7 @@
 				text-decoration: none;
 			}
 	</style>
-	<title>Grant's Website</title>
+	<title>Grant's Movies</title>
 </head>
 <body>
 	<?php
@@ -24,12 +24,15 @@
 
 	<center>
 		<div class="title">
-			<h1>Grant's Website</h1>
+			<h1>Grant's Movies</h1>
 		</div>
 		<div class="info">
 			<h2>Server Info</h2>
 			<p>This server is hosted on my home network using a <a href="https://www.raspberrypi.com/products/raspberry-pi-zero/" target="_blank">Raspberry Pi Zero</a>.</p>
 			<p>It has about 512mb of ram. The processing speed and ram is not suitable for a high traffic website.</p>
+		</div>
+		<div class="movies">
+			<video src="./videos/test_video.mp4" controls />
 		</div>
 	</center>
 </body>
