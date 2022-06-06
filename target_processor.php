@@ -2,6 +2,11 @@
 <html>
 <head>
 <?php
-    echo $_POST["password"];
+    if($_POST["username"] == "admin") {
+        echo "Granted";
+    }
+    else {
+        echo "Denied";
+    }
 ?>
 </head>
