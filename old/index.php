@@ -36,7 +36,7 @@
 			<p>It has about 512mb of ram. The processing speed and ram is not suitable for a high traffic website.</p>
 		</div>
 		<div class="movies">
-			<video src="./videos/test_video.mp4" controls />
+			<p><a href="./videos/test/test_video.html">Test Video</a></p>
 		</div>
 	</center>
 </body>
