@@ -11,6 +11,10 @@
 			a {
 				text-decoration: none;
 			}
+			.movies video {
+				height: 400px;
+				width: 400px;
+			}
 	</style>
 	<title>Grant's Movies</title>
 </head>
