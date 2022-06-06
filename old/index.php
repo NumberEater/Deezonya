@@ -17,23 +17,6 @@
 		<div class="title">
 			<h1>Grant's Website</h1>
 		</div>
-		<div class="video1">
-			<h2>Goofy Ahh Video</h2>
-			<video controls>
-				<source src="./video1.mp4">
-			</video>
-		</div>
-		<div class="video2">
-			<h2>PewDiePie plays PUBG</h2>
-			<video controls>
-				<source src="./video2.mp4">
-			</video>
-		</div>
 	</center>
-	<footer>
-		<center>
-			<a href="./music.html">Music</a>
-		</center>
-	</footer>
 </body>
 </html>
