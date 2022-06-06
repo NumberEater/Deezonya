@@ -11,6 +11,11 @@
 			a {
 				text-decoration: none;
 			}
+			.info {
+				border: 2px solid black;
+				border-radius: 20px;
+				margin: 20px;
+			}
 			.movies {
 				border: 2px solid black;
 				border-radius: 20px;
