@@ -13,9 +13,13 @@
 			die();
 		}
 	?>
+
 	<center>
 		<div class="title">
 			<h1>Grant's Website</h1>
+		</div>
+		<div class="info">
+			<p>This is my website. If you're here that means you have the username and password.</p>
 		</div>
 	</center>
 </body>
