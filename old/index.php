@@ -44,6 +44,7 @@
 		<div class="movies">
 			<h2>Videos/Movies</h2>
 			<p><a href="./videos/test/test_video.html">Test Video</a></p>
+			<p><a href="./videos/maverick/maverick.html">Top Gun Maverick</a></p>
 		</div>
 	</center>
 </body>
