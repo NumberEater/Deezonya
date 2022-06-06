@@ -6,7 +6,8 @@
         echo "Granted";
     }
     else {
-        echo "Denied";
+        header("Location: ./index.html");
+        die();
     }
 ?>
 </head>
