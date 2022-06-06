@@ -28,7 +28,8 @@
 		</div>
 		<div class="info">
 			<h2>Server Info</h2>
-			<p>This server is hosted on my home network using a <a href="https://www.raspberrypi.com/products/raspberry-pi-zero/" target="_blank">Raspberry Pi Zero</a></p>
+			<p>This server is hosted on my home network using a <a href="https://www.raspberrypi.com/products/raspberry-pi-zero/" target="_blank">Raspberry Pi Zero</a>.</p>
+			<p>It has about 512mb of ram. The processing speed and ram is not suitable for a high traffic website.</p>
 		</div>
 	</center>
 </body>
