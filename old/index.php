@@ -3,7 +3,30 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" type="text/css" href="./index.css">
+	<style>
+			body {
+				font-family: sans-serif;
+				font-size: 1.2em;
+			}
+			.login input[type=submit] {
+				margin-right: 20px;
+				margin-top: 10px;
+				width: 80px;
+				height: 30px;
+			}
+			.login input[type=username] {
+				margin-right: 20px;
+				margin-top: 10px;
+				width: 150px;
+				height: 30px;
+			}
+			.login input[type=password] {
+				margin-right: 20px;
+				margin-top: 10px;
+				width: 150px;
+				height: 30px;
+			}
+	</style>
 	<title>Grant's Website</title>
 </head>
 <body>
