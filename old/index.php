@@ -11,9 +11,10 @@
 			a {
 				text-decoration: none;
 			}
-			.movies video {
-				height: 400px;
-				width: 400px;
+			.movies {
+				border: 2px solid black;
+				border-radius: 20px;
+				margin: 20px;
 			}
 	</style>
 	<title>Grant's Movies</title>
@@ -36,6 +37,7 @@
 			<p>It has about 512mb of ram. The processing speed and ram is not suitable for a high traffic website.</p>
 		</div>
 		<div class="movies">
+			<h2>Videos/Movies</h2>
 			<p><a href="./videos/test/test_video.html">Test Video</a></p>
 		</div>
 	</center>
