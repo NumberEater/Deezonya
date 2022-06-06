@@ -24,8 +24,8 @@
 			<h1>Grant's Website</h1>
 		</div>
 		<div class="info">
-			<p>This is my website. If you're here that means you have the username and password.</p>
-			<p>The website is hosted on a rasbperry pi zero with 512 mb of ram.</p>
+			<h2>Server Info</h2>
+			<p>This server is hosted on my home network using a <a href="https://www.raspberrypi.com/products/raspberry-pi-zero/">Raspberry Pi Zero</a></p>
 		</div>
 	</center>
 </body>
