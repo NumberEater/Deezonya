@@ -47,6 +47,8 @@
 			<h2>Videos/Movies</h2>
 			<p><a href="./videos/test/test_video.html">Test Video</a></p>
 			<p><a href="./videos/maverick/maverick.html">Top Gun Maverick (coming 6/6/22)</a></p>
+			<p><a href="./videos/doctor_strange/doctor_strange.html">Dr. Strange: Multiverse of Madness (coming 6/6/22)</a></p>
+			<!-- MovieJustice.com -->
 		</div>
 	</center>
 </body>
